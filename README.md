@@ -3,18 +3,31 @@ help you repairing phones!board schematic diagram Repairing for iPhone iPad sams
 
 ...........
 2019-12-29 update: Xiaomi MAX3, Xiaomi NOTE3 diagram(layout)
+
 2019-12-27 Update: Samsung G950U, Redmi 6A diagram(layout)
+
 2019-12-25 Update: Samsung G955U bitmap
+
 2019-12-22 Update: Redmi K20PRO Xiaomi MIX2S Redmi S2 Bitmap
+
 2019-12-21 Update: Xiaomi 9 o'clock bitmap
+
 2019-12-20 Update: Samsung A520F Bitmap
+
 2019-12-18 Update: Samsung NOTE8 G955F bitmap
+
 2019-12-14 Update: Huawei Play 7X Bitmap
+
 2019-12-12 Update: Honor V20 Bitmap
+
 2019-12-12 update: Samsung A505F G935F diagram(layout)
+
 2019-12-10 update: Samsung A910 G950F diagram(layout)
+
 2019-12-08 Update: Huawei MATE30 Honor 8X OPPO R15 Bitmap
+
 2019-12-01 Update: Samsung J510 Bitmap
+
 2019-11-24 Update: OPPO FIND X diagram(layout)
 2019-11-17 Update: Xiaomi MIX Samsung J7 MAX Bitmap
 2019-11-15 update: Samsung G530F bitmap
